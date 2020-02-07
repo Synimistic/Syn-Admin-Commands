@@ -9,7 +9,7 @@ local Plugins = Setup:FindFirstChild('Plugins')
 local settings = Setup:FindFirstChild('Settings')
 
 -- MainModule; https://www.roblox.com/library/4665853426/Syn-Admin-Commands-MainModule
-local MainModule = game:GetService('ReplicatedStorage').Modules.SynMain
+local MainModule = game:GetService('ReplicatedStorage').MainModule
 
 --<< Setup Check >>--
 
