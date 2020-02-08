@@ -2,6 +2,13 @@
 [+] Added something,
 [-] Removed something,
 
+2/8/2020-05:04
++ Added command batching.
++ Started setting up command processing.
++ Added ProcessCommand event.
++ Added Settings.CustomCommands.
++ Added Commands module.
+
 2/8/2020-02:06
 + Added first anti-exploit feature; Main.Functions.AddLog('Exploits', {UserId = 1, Reason = 'Fired ChangeSetting; unauthorized.'})
 + Added "ChangeSetting" event.
