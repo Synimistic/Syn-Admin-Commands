@@ -2,6 +2,10 @@
 [+] Added something,
 [-] Removed something,
 
+2/8/2020-TIME
++ Added "ChangeSetting" event.
++ Added the following to Main.Functions; LevelToRank(Level)
+
 2/7/2020-00:14
 + Added some key parts of the Client.
 + Added the following to Main.Functions; MakeEvent(Data), HookEvent(Event, Function)
