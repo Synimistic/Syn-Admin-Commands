@@ -1,1 +1,6 @@
+[*] Changed/modified something,
+[+] Added something,
+[-] Removed something,
 
+2/7/2020-19:56
++ Added "Issues" table to Main; Logs all errors that occur within the admin system.
