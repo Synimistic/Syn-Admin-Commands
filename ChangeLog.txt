@@ -2,7 +2,7 @@
 [+] Added something,
 [-] Removed something,
 
-2/8/2020-TIME
+2/8/2020-02:06
 + Added first anti-exploit feature; Main.Functions.AddLog('Exploits', {UserId = 1, Reason = 'Fired ChangeSetting; unauthorized.'})
 + Added "ChangeSetting" event.
 + Added the following to Main.Functions; LevelToRank(Level), AddLog(Type, Data)
