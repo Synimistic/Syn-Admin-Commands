@@ -2,6 +2,10 @@
 [+] Added something,
 [-] Removed something,
 
+2/7/2020-00:14
++ Added some key parts of the Client.
++ Added the following to Main.Functions; MakeEvent(Data), HookEvent(Event, Function)
+
 2/7/2020-23:11
 + Added the following to Main.Functions; UserNameToUserId(UserName), UserIdToUserName(UserId).
 + Added the following to Main; Admins(UserId), Admins[UserId].
