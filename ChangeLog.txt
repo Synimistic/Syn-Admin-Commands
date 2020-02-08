@@ -3,8 +3,9 @@
 [-] Removed something,
 
 2/8/2020-TIME
++ Added first anti-exploit feature; Main.Functions.AddLog('Exploits', {UserId = 1, Reason = 'Fired ChangeSetting; unauthorized.'})
 + Added "ChangeSetting" event.
-+ Added the following to Main.Functions; LevelToRank(Level)
++ Added the following to Main.Functions; LevelToRank(Level), AddLog(Type, Data)
 
 2/7/2020-00:14
 + Added some key parts of the Client.
