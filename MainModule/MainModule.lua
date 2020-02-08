@@ -23,7 +23,7 @@ return function(Data)
 	end
 	Plugins.Name = 'Plugins'
 	
-	-- settings
+	-- settings Module
 	if type(settings) ~= 'table' then
 		-- Check if settings is ModuleScript
 		pcall(function()
