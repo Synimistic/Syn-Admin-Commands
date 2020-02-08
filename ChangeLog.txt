@@ -2,5 +2,12 @@
 [+] Added something,
 [-] Removed something,
 
+2/7/2020-22:21
++ Added the following to Main.Functions; LogIssue(Table), GetDate().
++ Added Main.Service.
+
+2/7/2020-21:26
++ Added the following settings; Ranks, Banned, Prefix, SplitKey, BatchKey, ConsoleKey.
+
 2/7/2020-19:56
 + Added "Issues" table to Main; Logs all errors that occur within the admin system.
